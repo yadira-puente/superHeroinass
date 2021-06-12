@@ -30,3 +30,9 @@ El 22 de noviembre de 2016, Hamilton recibió la Medalla Presidencial de la Libe
 ### Imagenes
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+## Imagen de Margaret Hammilton
+
+
+
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/Margaret.jpg "Margaret Hammilton con su código")
