@@ -1,14 +1,7 @@
-#Evely Berezin
+# Evely Berezin
 Berezin comenzó su trabajo de posgrado en la Universidad de Nueva York, con una beca de la Comisión de Energía Atómica de los Estados Unidos . [5] En 1951 aceptó un trabajo en Electronic Computer Corporation y comenzó allí como jefa del Departamento de Diseño Lógico. Berezin fue la única persona que realizó el diseño lógico de las computadoras que desarrolla ECC. [5] En 1957, la ECC fue comprada por Underwood Corporation (originalmente conocida como Underwood Typewriter Company ). Aquí, diseñó una serie de computadoras que eran muy generales en estructura pero individuales en aplicaciones específicas. Entre ellos se encontraba un sistema para el ejército de EE. UU. Para cálculos de alcance, un sistema para controlar la distribución de cargadores y lo que ahora se considera la primera computadora de oficina.[6]
-
-Underwood Typewriter Company no pudo continuar el desarrollo más allá de 1957, y Berezin se fue a una compañía llamada Teleregister, anteriormente una división de Western Union . [7]
-
-Utilizando computadoras de tubo de vacío y conmutación electromecánica , Teleregister había construido uno de los primeros sistemas de reserva de aerolíneas , el " Reservisor ". [8] Utilizando tecnología de transistores recientemente disponible , Berezin desarrolló un sistema de reserva computarizado para United Airlines, que era uno de los sistemas informáticos más grandes en ese momento, controlando 60 ciudades en un sistema de comunicación que proporcionaba un tiempo de respuesta de 1 segundo. [9] Mientras trabajaba para Teleregister, Berezin también desarrolló el primer sistema bancario computarizado. [10]
 
 En 1968, Berezin tuvo la idea de un procesador de textos para simplificar el trabajo de las secretarias, y en 1969 fundó Redactron Corporation, [11] [5] que se convirtió en una empresa pública y entregó miles de sistemas a los clientes en toda su organización de marketing internacional. El producto principal de la empresa se llamaba " Data Secretary " y era del tamaño de un pequeño frigorífico, no tenía pantalla y el teclado y la impresora eran una máquina de escribir IBM Selectric . [2]
 
-En la década de 1970, aunque el mercado seguía fuerte, la economía sufrió una fuerte inflación, elevando las tasas de interés a un nivel (16%) insostenible para una empresa como Redactron que operaba en un mundo en el que se alquilaban equipos. La Compañía fue vendida a Burroughs Corporation en 1976 y se integró en su división de equipos de oficina. Berezin permaneció hasta 1979. [4]
-
-En 1980, Berezin se desempeñó como presidente de Greenhouse Management Company, socio general de un grupo de capital de riesgo dedicado a empresas de alta tecnología en etapa inicial. [5]
 
 A lo largo de su carrera, recibió doctorados honorarios de la Universidad Adelphi y la Universidad Eastern Michigan . [5] Berezin también formó parte de las juntas directivas de CIGNA , Standard Microsystems, Koppers y Datapoint . [12]
