@@ -14,13 +14,21 @@ Cuando era adolescente, sus talentos matemáticos la llevaron a una larga relaci
 3. Visión de la capacidad de las computadoras.
 
 
-Relación de trabajo con:
+## Relación de trabajo con:
 - Matemático británico Charles Babbage
 - Tradujo articulo de Luigi Menabrea
 
-## Mátematica y escitora inglesa
+### Link
+
+[Ver Bio](https://en.wikipedia.org/wiki/Grace_Hopper)
+
+### Imagen
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/graceHopper.jpg "Grace Realizando su análisis")
+
+### Video de youtube
+<a href="https://www.youtube.com/watch?v=Fg82iV-L8ZY
+" target="_blank"><img src="http://img.youtube.com/vi/Fg82iV-L8ZY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-|     Desarrollo       |     Resultado                                                  | 
-|     Algoritmo        |     Se le considera primera programdora de computadoras        | 
-|     Notas            |     Visión de capacidad de las computadoras                    | 
+
