@@ -34,7 +34,6 @@ Cuando era adolescente, sus talentos matemáticos la llevaron a una larga relaci
 ---
 
 ### Video de youtube
-
 <a href="https://www.youtube.com/results?search_query=ada+lovelace
 " target="_blank"><img src="http://img.youtube.com/vi/ada+lovelace/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
