@@ -6,6 +6,8 @@ Fue una **actriz**, __inventor__, y *productor de cine* **__nacido en Austria am
 
 __También ayudó a mejorar la aerodinámica de los aviones de Howard Hughes mientras salían durante la guerra.  Aunque la Marina de los EE. UU. No adoptó la invención de Lamarr y Antheil hasta 1957,  varias técnicas de espectro ensanchado se incorporan a Bluetoothtecnología y son similares a los métodos utilizados en las versiones heredadas de Wi-Fi .  El reconocimiento del valor de su trabajo dio como resultado que la pareja fuera incluida póstumamente en el Salón de la Fama de los Inventores Nacionales en 20__
 
+:wink:
+
 ---
 
 ### Profesiones (Lista Ordenada)
