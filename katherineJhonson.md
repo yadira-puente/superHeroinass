@@ -46,7 +46,7 @@ Murió el 24 de febrero de 2020. El administrador de la NASA, James Bridenstine,
 ### *Esto es una tabla*
 
 | Heroinas             | Profesión                             |        
-|:------------------:  |:-------------------------_-----------:|
+|:------------------:  |:-------------------------------------:|
 | Katherine Jhonson    |  Licenciatura en matemáticas y francés| 
 
 ---
