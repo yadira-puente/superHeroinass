@@ -4,6 +4,7 @@
 
 ## Ruiz Robles *quería aligerar el peso de los libros que llevaban sus alumnos, por lo que ideó un dispositivo compuesto por una serie de textos e ilustraciones en carretes, ~~todo bajo una hoja de lupa~~ con luz para leer en la oscuridad, y fue a incorporar descripciones habladas de cada tema. Su dispositivo nunca se puso en producción, pero se exhibe un prototipo en el Museo Nacional de Ciencia y Tecnología de A Coruña .*
 
+:smiley:
 ---
 
 ## Profesión (lista ordenada)
