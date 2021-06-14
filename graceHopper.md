@@ -24,7 +24,7 @@ En 1954, Eckert-Mauchly eligió a Hopper para dirigir su departamento de program
 
 ### Link
 
-[Ver Boiografía](https://en.wikipedia.org/wiki/Grace_Hopper)
+[Ver Biografía](https://en.wikipedia.org/wiki/Grace_Hopper)
 
 ---
 
