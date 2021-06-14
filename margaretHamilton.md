@@ -1,4 +1,4 @@
-# Margaret Hamilton
+# Margaret Hamilton  :blush:
 
 #### Es una __científica informática__ , *ingeniera de sistemas* y propietaria de un ~~negocio 
 estadounidense~~.
