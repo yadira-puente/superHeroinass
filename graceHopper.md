@@ -8,6 +8,8 @@ En 1954, Eckert-Mauchly eligió a Hopper para dirigir su departamento de program
 
 ~~Marina de los EE.UU. Arleigh Burke -class destructor de misiles guiados USS  Hopper fue nombrado para ella~~, al igual que el Cray XE6 superordenador "Hopper" en NERSC . [6] Durante su vida, Hopper recibió 40 títulos honoríficos de universidades de todo el mundo. Una universidad de la Universidad de Yale fue rebautizada en su honor. En 1991, recibió la Medalla Nacional de Tecnología. __El 22 de noviembre de 2016, el presidente Barack Obama le otorgó póstumamente la Medalla Presidencial de la Libertad .__ 
 
+:relaxed:
+
 ---
 
 ### Sus profesiones (Lista ordenada)
