@@ -9,6 +9,8 @@ Berezin nació en el este del Bronx en 1925 de inmigrantes judíos del Imperio R
 
 ## A lo largo de su carrera, recibió doctorados honorarios de la Universidad Adelphi y la Universidad Eastern Michigan . [5] Berezin ~~también formó parte de las juntas directivas de CIGNA~~ , Standard Microsystems, Koppers y Datapoint . 
 
+:grinning:
+
 ---
 
 ## Profesión (Lista ordenada)
