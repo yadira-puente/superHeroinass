@@ -8,6 +8,8 @@
 
  Entre 1842 y 1843, Ada __tradujo un artículo del ingeniero militar italiano Luigi Menabrea sobre el motor de cálculo y lo complementó con un elaborado conjunto de notas, simplemente llamadas "Notas"__. Las notas de Lovelace son importantes en la historia temprana de las computadoras , ya que contienen lo que muchos consideran el primer programa de computadora, es decir, un algoritmo diseñado para ser ejecutado por una máquina. __Otros historiadores rechazan esta perspectiva y señalan que las notas personales de Babbage de los años 1836/1837 contienen los primeros programas para el motor__. [10] También desarrolló una visión de la capacidad de las computadoras para ir más allá del mero cálculo o procesamiento de números, mientras que muchos otros, incluido el propio Babbage, se enfocaron solo en esas capacidades. [11]Su mentalidad de "ciencia poética" la llevó a hacer preguntas sobre el motor analítico (como se muestra en sus notas) examinando cómo los individuos y la sociedad se relacionan con la tecnología como herramienta colaborativa
 
+:blush:
+
 # Conocida por :
 1. Computadora mécanica
 2. Primera programadora de las computadoras.
