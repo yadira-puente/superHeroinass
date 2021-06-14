@@ -14,6 +14,8 @@ Actriz que desempeña un papel en Figuras ocultas: Taraji P. Henson
 
 Murió el 24 de febrero de 2020. El administrador de la NASA, James Bridenstine, dijo: "Nuestra familia de la NASA está triste al enterarse de la noticia de que Katherine Johnson falleció esta mañana a los 101 años. Era una heroína estadounidense y su legado pionero nunca será olvidado.
 
+:open_mouth:
+
 ---
 
 ###  *Nasa* (Lista ordenada)
