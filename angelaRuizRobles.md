@@ -30,7 +30,7 @@
 
 ### Imagen
 
-![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/angelaRuizRobles.jpg "Imagen de Angela Ruiz Robles")
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/angelaRuizRobles.gif "Imagen de Angela Ruiz Robles")
 
 ---
 
