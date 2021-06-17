@@ -32,7 +32,7 @@ En 1954, Eckert-Mauchly eligió a Hopper para dirigir su departamento de program
 
 ### Imagen
 
-![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/graceHopper.jpg "Imagen de Grace Hopper")
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/graceHopper.gif "Imagen de Grace Hopper")
 
 ---
 
