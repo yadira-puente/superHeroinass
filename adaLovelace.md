@@ -31,7 +31,7 @@
 
 ### Imagen
 
-![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/adaLovelace.jpg "Imágen de Ada Lovelace")
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/adaLovelace.gif "Imágen de Ada Lovelace")
 
 ---
 
