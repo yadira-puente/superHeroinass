@@ -35,7 +35,7 @@ Berezin nació en el este del Bronx en 1925 de inmigrantes judíos del Imperio R
 
 ### Imagen
 
-![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/evelynBerezin.jpg "Imagen de Evelyn Berezin")
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/evelynBerezin.gif "Imagen de Evelyn Berezin")
 
 ---
 
