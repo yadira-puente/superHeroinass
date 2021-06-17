@@ -34,7 +34,7 @@ __También ayudó a mejorar la aerodinámica de los aviones de Howard Hughes mie
 
 ### Imagen
 
-![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/hedyLamarr.jpg "Imagen de Hedy Lamarr")
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/hedyLamarr.gif "Imagen de Hedy Lamarr")
 
 ---
 
