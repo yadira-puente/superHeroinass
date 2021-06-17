@@ -50,7 +50,7 @@ estadounidense~~.
 
 
 
-![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/Margaret.jpg "Margaret Hammilton con su código")
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/margaretHamilton.gif "Margaret Hammilton con su código")
 
 
 ---
