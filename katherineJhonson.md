@@ -41,7 +41,7 @@ Murió el 24 de febrero de 2020. El administrador de la NASA, James Bridenstine,
 
 ### *Imagen*
 
-![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/katherineJhonson.jpg "Imagen de Katherine Jhonson")
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/katherineJhonson.gif "Imagen de Katherine Jhonson")
 
 ---
 
