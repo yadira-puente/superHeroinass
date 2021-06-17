@@ -1,4 +1,4 @@
-# Las chicas gniales del Eniac
+# Las chicas geniales del Eniac
 
 La tarea de programar el **ENIAC** fue asignada a _seis_ mujeres expertas computers de la _Moore School_. Debido al carácter secreto de los cálculos, primero describían las instrucciones para resolver un determinado problema sobre los planos de la máquina, y después accedían a la sala donde estaba instalado el ENIAC para configurarlo. **Esta tarea podía _requerir días_**, pero una vez realizada, los cálculos para describir una trayectoria tardaban tan sólo diez segundos.
 
@@ -33,10 +33,18 @@ Crearon la primera biblioteca de rutinas y las primeras aplicaciones de software
 
 - Marlyn Wescoff Meltzer (1922-2008)​ renunció a su puesto antes del traslado del ENIAC a Aberdeen para contraer matrimonio.
 
+---
+
+:relaxed:
+
 [Ver Biografia](https://mujeresconciencia.com/2017/09/29/las-chicas-del-eniac-1946-1955/)
+
+---
 
 
 ![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/chicasEniac.gif "Las chicas trabajando junto al Eniac")
+
+---
 
 ### Chicas Eniac (Tabla) 
 
@@ -48,6 +56,8 @@ Crearon la primera biblioteca de rutinas y las primeras aplicaciones de software
 |Kathleen McNulty Mauchly Antonelli  |
 |Frances Bilas Spence                |
 |Marlyn Wescoff Meltzer              |
+
+
 ---
 
 ### Video de youtube
