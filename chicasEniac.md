@@ -38,3 +38,21 @@ Crearon la primera biblioteca de rutinas y las primeras aplicaciones de software
 
 ![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/chicasEniac.gif "Las chicas trabajando junto al Eniac")
 
+### Chicas Eniac (Tabla) 
+
+| Heroinas                           |
+|:---------------------------------: |
+| Betty Snyder Holberton             |  
+| Betty Jean Jennings Bartik         |
+| Ruth Lichterman Teitelbaum         |
+|Kathleen McNulty Mauchly Antonelli  |
+|Frances Bilas Spence                |
+|Marlyn Wescoff Meltzer              |
+---
+
+### Video de youtube
+
+<a href="https://www.youtube.com/watch?v=5KqFC3QrS_Y
+" target="_blank"><img src="http://img.youtube.com/vi/5KqFC3QrS_Y/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
