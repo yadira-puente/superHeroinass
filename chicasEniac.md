@@ -2,6 +2,9 @@
 
 La tarea de programar el **ENIAC** fue asignada a _seis_ mujeres expertas computers de la _Moore School_. Debido al carácter secreto de los cálculos, primero describían las instrucciones para resolver un determinado problema sobre los planos de la máquina, y después accedían a la sala donde estaba instalado el ENIAC para configurarlo. **Esta tarea podía _requerir días_**, pero una vez realizada, los cálculos para describir una trayectoria tardaban tan sólo diez segundos.
 
+---
+
+
 ## Las chicas del ENIAC desarrollaron las bases de la programación de los ordenadores:
 
 Crearon la primera biblioteca de rutinas y las primeras aplicaciones de software. En 1997 fueron incluidas en el Women in Technology International Hall of Fame.
@@ -13,6 +16,8 @@ Crearon la primera biblioteca de rutinas y las primeras aplicaciones de software
 - Perseverancia
 - Dedicación
 - Inteligencia
+
+---
 
 ##### Ellas son:
 
@@ -31,4 +36,5 @@ Crearon la primera biblioteca de rutinas y las primeras aplicaciones de software
 [Ver Biografia](https://mujeresconciencia.com/2017/09/29/las-chicas-del-eniac-1946-1955/)
 
 
-![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/chicasEniac.jpg "Esta es una imagen de las chicas Eniac")
+![alt text](https://github.com/yadira-puente/superHeroinass/blob/main/chicasEniac.gif "Las chicas trabajando junto al Eniac")
+
